@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiModalBinding", "WebApiModalBinding\WebApiModalBinding.csproj", "{182DE7DB-9531-4E45-8CF8-0813B68F45C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182DE7DB-9531-4E45-8CF8-0813B68F45C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182DE7DB-9531-4E45-8CF8-0813B68F45C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182DE7DB-9531-4E45-8CF8-0813B68F45C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182DE7DB-9531-4E45-8CF8-0813B68F45C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67BED54A-9795-4489-8DBC-22783A1AC8E2}
+	EndGlobalSection
+EndGlobal
